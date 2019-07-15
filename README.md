@@ -1,4 +1,9 @@
 # GrandDebat
 Topic mining exploration for the Grand Debat public consultation
 
-https://rawgit.com/necolas/css3-social-signin-buttons/master/index.html
+https://rawgit.com/Benjamin-VdB/GrandDebat/blob/master/ecologie_vs_democratie.html
+
+
+https://github.com/Benjamin-VdB/GrandDebat/blob/master/ecologie_vs_democratie.html?raw=true
+
+https://github.com/Benjamin-VdB/GrandDebat/blob/master/ecologie_vs_democratie.html
